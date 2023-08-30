@@ -1,6 +1,6 @@
 # Logic Minimizer for Microarchitectual Hash Functions
 These are the python/sage scripts that allow to minimize microarchitectural hash functions.
-In addition to these scripts, a running installation of the [espresso](https://github.com/classabbyamp/espresso-logic.git)[ logic minimizer](https://github.com/classabbyamp/espresso-logic.git)](https://github.com/classabbyamp/espresso-logic.git) is needed. 
+In addition to these scripts, a running installation of the [espresso logic minimizer](https://github.com/classabbyamp/espresso-logic.git) is needed. 
 
 # Dependencies
 - [Espresso Logic Minimizer](https://github.com/classabbyamp/espresso-logic.git)
